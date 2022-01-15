@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: "Code Clinic"
+description: "Web Dev Help & Coaching in Austin, Texas"
+---
 
-You can use the [editor on GitHub](https://github.com/jshawl/codeclinic/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to The Code Clinic!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We're committed to helping you get over your code-related
+hurdles and helping you achieve your dreams of learning
+to code and become employed as a developer or engineer.
 
-### Markdown
+Please fill out the form below to setup our first meeting.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfkYscJbKtv_DhtjbBU7lx22P3lcdRS9HSuXBzJ7JHN16BJ6g/viewform?embedded=true" width="100%" height="1865" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-```markdown
-Syntax highlighted code block
+## About
 
-# Header 1
-## Header 2
-### Header 3
+Code Clinic is owned and operated by [Jesse Shawl](https://jesse.sh/) in Austin, Texas.
 
-- Bulleted
-- List
+He has a background in teaching web development to adults with a focus on the following topics:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jshawl/codeclinic/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- JavaScript & React.js
+- node.js & express.js
+- CSS and Responsive Design
